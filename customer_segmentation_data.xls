@@ -1,0 +1,501 @@
+Customer_ID,Age,Gender,Income,Spending_Score,Purchase_Frequency,Product_Category,Total_Spending,Preferred_Payment_Method
+C001,40,Other,67532,47,3,Grocery,9576,UPI
+C002,58,Other,64822,39,2,Grocery,2959,Credit Card
+C003,28,Other,54153,64,15,Home Decor,3987,Credit Card
+C004,59,Male,87054,91,16,Beauty,6583,Wallet
+C005,53,Female,81166,35,7,Apparel,1483,Cash
+C006,52,Female,93903,8,8,Grocery,6985,Cash
+C007,48,Female,72199,77,4,Beauty,2267,UPI
+C008,23,Other,88246,69,1,Electronics,2103,UPI
+C009,49,Male,85299,51,5,Beauty,5035,Wallet
+C010,38,Female,68721,13,15,Home Decor,2996,UPI
+C011,56,Male,60226,47,7,Electronics,3257,Cash
+C012,44,Other,46837,94,17,Home Decor,5138,Cash
+C013,59,Male,47481,79,4,Electronics,2917,Wallet
+C014,55,Female,76406,89,8,Beauty,3197,Credit Card
+C015,27,Male,51039,88,7,Beauty,8405,Credit Card
+C016,35,Female,61938,98,8,Grocery,9684,Cash
+C017,38,Female,61934,20,1,Beauty,9206,UPI
+C018,20,Other,86739,98,1,Beauty,7794,Credit Card
+C019,42,Male,37203,27,11,Electronics,4876,Wallet
+C020,30,Female,85232,73,13,Home Decor,3383,Cash
+C021,18,Female,45993,52,18,Electronics,4798,Wallet
+C022,41,Male,70208,23,16,Apparel,2698,Cash
+C023,47,Female,34403,46,19,Beauty,7535,UPI
+C024,34,Male,74719,95,17,Electronics,9359,Credit Card
+C025,54,Female,99305,18,5,Beauty,7261,Credit Card
+C026,46,Male,47606,45,15,Grocery,4407,Wallet
+C027,38,Other,77039,13,10,Electronics,4864,Cash
+C028,56,Female,63622,57,5,Grocery,1078,UPI
+C029,19,Female,55398,11,12,Electronics,3686,Wallet
+C030,54,Other,84828,27,14,Grocery,9635,Wallet
+C031,31,Female,99982,70,3,Electronics,1081,Cash
+C032,57,Female,41434,38,9,Beauty,8249,Cash
+C033,28,Female,67997,19,12,Apparel,1840,Wallet
+C034,18,Other,97112,81,17,Electronics,4230,Cash
+C035,25,Male,41652,95,2,Electronics,8162,UPI
+C036,34,Male,84597,52,17,Beauty,7292,Cash
+C037,34,Female,64834,4,3,Home Decor,5894,Credit Card
+C038,57,Female,80963,91,6,Home Decor,9786,Wallet
+C039,21,Male,60302,51,9,Apparel,4053,Wallet
+C040,40,Male,33534,79,3,Electronics,5184,UPI
+C041,27,Other,72158,4,15,Electronics,6194,Credit Card
+C042,26,Other,59764,89,5,Electronics,3781,Credit Card
+C043,59,Female,57692,83,14,Apparel,3901,Wallet
+C044,56,Male,60073,88,1,Home Decor,6194,Wallet
+C045,38,Other,42465,36,8,Beauty,3237,Credit Card
+C046,38,Other,83546,81,14,Home Decor,8760,Wallet
+C047,39,Female,71608,21,19,Apparel,4623,Wallet
+C048,56,Male,64413,37,5,Electronics,3085,Wallet
+C049,23,Male,32685,11,1,Home Decor,3506,Cash
+C050,52,Other,75158,28,3,Home Decor,7345,Credit Card
+C051,49,Other,46998,18,4,Electronics,5029,Cash
+C052,49,Other,86716,22,5,Apparel,2121,Cash
+C053,36,Male,33831,59,9,Grocery,8461,Wallet
+C054,38,Female,94145,68,11,Beauty,4469,Credit Card
+C055,59,Male,47616,12,7,Grocery,3483,Credit Card
+C056,22,Male,37394,77,19,Apparel,7885,Wallet
+C057,20,Male,69448,60,10,Electronics,8086,Cash
+C058,33,Female,94448,19,12,Beauty,1637,Credit Card
+C059,38,Other,70091,32,15,Grocery,8287,Cash
+C060,38,Male,87118,92,8,Home Decor,6116,Credit Card
+C061,23,Female,53688,70,7,Beauty,1251,Cash
+C062,28,Female,65318,64,1,Beauty,6900,Credit Card
+C063,19,Male,76627,20,10,Electronics,7535,Wallet
+C064,37,Female,90012,20,14,Home Decor,6285,Wallet
+C065,39,Other,66630,38,10,Electronics,9630,Wallet
+C066,46,Male,55712,85,16,Electronics,1450,Wallet
+C067,38,Other,89593,27,4,Electronics,5716,UPI
+C068,36,Female,93272,11,14,Beauty,7376,UPI
+C069,41,Male,34698,36,15,Electronics,2262,Credit Card
+C070,27,Other,82419,29,5,Grocery,8944,Wallet
+C071,37,Female,71199,92,14,Home Decor,1547,UPI
+C072,54,Male,98515,77,4,Electronics,2095,UPI
+C073,50,Other,88197,69,1,Apparel,5185,Credit Card
+C074,39,Female,49344,78,1,Home Decor,2616,Cash
+C075,23,Male,40381,78,16,Electronics,7970,Wallet
+C076,41,Female,33068,63,17,Beauty,5883,UPI
+C077,35,Other,40568,22,13,Grocery,2195,Credit Card
+C078,53,Female,41973,69,12,Electronics,7820,Wallet
+C079,25,Male,64210,56,9,Grocery,6327,Credit Card
+C080,59,Other,68435,15,11,Beauty,7450,Cash
+C081,59,Female,73010,28,4,Apparel,8920,UPI
+C082,39,Female,99019,33,3,Electronics,6406,Credit Card
+C083,20,Male,87277,82,13,Beauty,6547,Cash
+C084,32,Female,53261,93,6,Grocery,8974,UPI
+C085,20,Male,52270,64,12,Home Decor,5702,Credit Card
+C086,28,Male,69310,13,14,Electronics,2162,Wallet
+C087,37,Other,56028,57,1,Beauty,7564,Wallet
+C088,23,Male,45038,88,19,Apparel,7587,Cash
+C089,44,Other,56171,24,9,Apparel,9736,UPI
+C090,28,Female,84721,97,1,Home Decor,3431,Credit Card
+C091,36,Other,30891,77,2,Apparel,9316,Cash
+C092,23,Male,48524,41,6,Beauty,7557,Cash
+C093,30,Male,40296,93,4,Electronics,1029,UPI
+C094,42,Other,43565,33,13,Home Decor,5071,Credit Card
+C095,43,Other,71001,42,15,Apparel,9668,Cash
+C096,37,Female,97767,56,19,Apparel,1370,Wallet
+C097,58,Other,41173,39,14,Grocery,6653,Credit Card
+C098,22,Male,62762,27,7,Apparel,4065,UPI
+C099,58,Male,49861,86,15,Electronics,6455,Credit Card
+C100,20,Female,72688,32,5,Grocery,5133,Credit Card
+C101,41,Male,55099,55,2,Electronics,9716,Credit Card
+C102,38,Male,43122,11,14,Electronics,8314,Wallet
+C103,52,Other,78550,4,4,Beauty,9836,Credit Card
+C104,33,Female,31161,32,8,Apparel,2754,Credit Card
+C105,27,Male,46020,35,3,Home Decor,7512,Credit Card
+C106,39,Other,30705,60,3,Electronics,9801,UPI
+C107,18,Female,76532,18,13,Apparel,2430,Wallet
+C108,32,Female,36234,35,10,Grocery,7663,UPI
+C109,25,Female,31556,72,12,Electronics,6240,Credit Card
+C110,43,Other,36904,35,5,Electronics,3490,UPI
+C111,25,Female,83223,47,12,Apparel,1202,Credit Card
+C112,21,Female,95718,36,2,Beauty,2011,Cash
+C113,26,Male,46832,2,16,Beauty,7485,Cash
+C114,44,Female,92251,14,17,Apparel,7125,Credit Card
+C115,44,Female,87962,83,1,Grocery,5251,UPI
+C116,47,Other,41467,92,6,Beauty,4833,Wallet
+C117,54,Male,36999,39,6,Apparel,1264,UPI
+C118,58,Other,81501,55,12,Home Decor,8571,Wallet
+C119,48,Male,95569,85,16,Grocery,5861,UPI
+C120,58,Female,31780,75,5,Home Decor,5620,Credit Card
+C121,58,Female,60543,81,4,Home Decor,8211,UPI
+C122,55,Female,58355,81,12,Beauty,5972,Cash
+C123,56,Female,38946,40,5,Beauty,8015,UPI
+C124,40,Male,59994,46,16,Grocery,6130,Cash
+C125,52,Other,87678,34,18,Beauty,9812,Credit Card
+C126,59,Other,72521,34,16,Beauty,2430,UPI
+C127,19,Other,57716,11,15,Home Decor,3068,Credit Card
+C128,18,Male,31666,25,9,Apparel,5684,Cash
+C129,31,Other,89638,59,5,Apparel,7743,Wallet
+C130,20,Male,93935,94,13,Grocery,9184,UPI
+C131,21,Female,68728,24,7,Grocery,9929,Wallet
+C132,43,Male,39911,11,15,Beauty,4835,Wallet
+C133,43,Female,60481,97,14,Home Decor,4859,Credit Card
+C134,37,Other,83275,46,1,Grocery,9087,Cash
+C135,42,Male,95057,28,6,Beauty,3199,Wallet
+C136,51,Female,39306,62,10,Beauty,3537,Credit Card
+C137,57,Female,82746,38,19,Electronics,2990,Cash
+C138,59,Female,45723,64,9,Electronics,1992,Wallet
+C139,55,Female,58236,92,17,Home Decor,1538,Credit Card
+C140,52,Female,87947,76,16,Home Decor,5035,Credit Card
+C141,24,Female,32622,83,17,Grocery,5216,Cash
+C142,29,Other,58727,15,6,Electronics,2273,UPI
+C143,26,Other,37760,44,3,Electronics,1479,Credit Card
+C144,30,Male,36126,42,18,Electronics,9163,Credit Card
+C145,43,Male,55805,1,18,Beauty,6218,UPI
+C146,56,Male,62522,38,11,Electronics,4985,Wallet
+C147,42,Female,64764,39,13,Home Decor,3195,Wallet
+C148,45,Male,57207,96,8,Beauty,3056,Credit Card
+C149,33,Male,30343,40,10,Electronics,9896,UPI
+C150,50,Other,99756,80,15,Grocery,8487,Credit Card
+C151,48,Male,47602,44,4,Beauty,1839,UPI
+C152,57,Other,96034,61,5,Beauty,2824,Wallet
+C153,36,Other,41614,25,19,Beauty,3503,UPI
+C154,43,Male,55172,7,11,Beauty,8314,UPI
+C155,44,Male,85714,56,16,Electronics,6941,Credit Card
+C156,28,Other,53594,40,4,Beauty,7936,Cash
+C157,55,Male,93932,76,2,Home Decor,8369,Wallet
+C158,39,Female,95757,31,6,Electronics,5440,Cash
+C159,54,Other,81518,96,12,Electronics,9359,Wallet
+C160,41,Female,50592,33,3,Electronics,3130,Wallet
+C161,49,Other,53681,98,18,Home Decor,2292,Cash
+C162,38,Female,31870,33,14,Grocery,6160,Cash
+C163,35,Female,70759,14,14,Apparel,5768,Credit Card
+C164,57,Female,78147,37,15,Electronics,4340,Cash
+C165,38,Male,90203,35,7,Grocery,7680,Wallet
+C166,46,Male,48227,61,3,Grocery,6330,Credit Card
+C167,20,Female,64164,87,11,Electronics,3365,Wallet
+C168,40,Other,67426,11,6,Beauty,7651,Credit Card
+C169,34,Female,44235,36,16,Apparel,5300,UPI
+C170,22,Other,55480,48,4,Electronics,9553,Credit Card
+C171,23,Male,48021,87,8,Home Decor,1794,Wallet
+C172,27,Other,87618,88,2,Beauty,3952,UPI
+C173,24,Female,82206,37,6,Grocery,3557,Cash
+C174,26,Male,68372,74,13,Apparel,8776,UPI
+C175,19,Male,61509,47,4,Electronics,1453,Wallet
+C176,49,Female,67778,71,17,Home Decor,6083,Wallet
+C177,49,Female,73924,61,6,Electronics,3021,Wallet
+C178,34,Male,48964,1,6,Grocery,5664,Credit Card
+C179,21,Male,99541,32,10,Apparel,2936,Cash
+C180,52,Female,92226,59,15,Apparel,8105,Cash
+C181,54,Male,86342,4,11,Beauty,2748,Wallet
+C182,43,Female,85941,9,17,Apparel,3337,Cash
+C183,56,Female,95234,57,3,Grocery,5765,Wallet
+C184,28,Male,34929,90,15,Home Decor,9342,UPI
+C185,58,Male,54800,65,12,Electronics,2381,UPI
+C186,59,Male,63064,7,15,Grocery,2616,Credit Card
+C187,52,Other,90009,61,3,Home Decor,3569,Wallet
+C188,55,Male,67574,60,11,Home Decor,6174,Credit Card
+C189,25,Male,33242,45,15,Beauty,4449,Cash
+C190,46,Male,71033,8,11,Home Decor,1833,Wallet
+C191,31,Female,92016,55,13,Home Decor,5345,Wallet
+C192,44,Other,56006,11,4,Home Decor,5307,Wallet
+C193,29,Male,48668,79,12,Electronics,5259,UPI
+C194,53,Male,55722,76,1,Electronics,8979,Credit Card
+C195,31,Other,71536,14,15,Electronics,9256,Wallet
+C196,56,Female,99359,46,2,Beauty,8026,UPI
+C197,27,Male,40753,8,7,Grocery,2492,Cash
+C198,48,Male,69935,85,18,Grocery,6726,UPI
+C199,49,Female,63005,60,10,Home Decor,9599,UPI
+C200,56,Female,97646,71,5,Apparel,7705,UPI
+C201,38,Other,78533,58,17,Apparel,7443,UPI
+C202,31,Male,57084,97,19,Apparel,1429,Wallet
+C203,47,Male,32102,39,16,Beauty,3970,Wallet
+C204,48,Male,68582,92,12,Home Decor,6485,Cash
+C205,33,Female,62026,41,17,Grocery,9569,UPI
+C206,31,Female,79232,68,9,Grocery,8693,Wallet
+C207,51,Male,80455,69,5,Apparel,6799,UPI
+C208,59,Male,49097,98,19,Beauty,3529,Cash
+C209,57,Male,99455,26,19,Home Decor,3731,UPI
+C210,34,Male,89456,18,14,Grocery,1284,UPI
+C211,44,Other,36347,18,13,Home Decor,6799,Cash
+C212,20,Female,75762,55,18,Home Decor,6494,Wallet
+C213,48,Female,58644,94,10,Apparel,6535,Wallet
+C214,19,Male,56961,56,13,Beauty,9462,Cash
+C215,40,Other,80103,1,4,Grocery,6108,UPI
+C216,52,Male,69497,63,4,Electronics,5109,Wallet
+C217,41,Female,96127,59,19,Beauty,4343,Wallet
+C218,40,Other,72086,43,11,Apparel,8030,Credit Card
+C219,44,Male,69809,71,3,Beauty,7816,Credit Card
+C220,23,Other,54340,8,10,Apparel,7604,UPI
+C221,21,Female,43083,7,6,Apparel,4145,Cash
+C222,36,Female,49187,4,14,Beauty,3781,Wallet
+C223,23,Male,94285,91,13,Home Decor,7857,Credit Card
+C224,44,Male,32615,22,19,Home Decor,4212,UPI
+C225,30,Other,50699,99,11,Beauty,9063,Wallet
+C226,26,Female,68027,18,1,Apparel,4836,Cash
+C227,20,Male,49636,82,4,Beauty,7859,Wallet
+C228,50,Other,44036,39,4,Beauty,8182,Cash
+C229,50,Other,76225,56,18,Apparel,3944,Wallet
+C230,20,Other,94672,40,11,Beauty,3630,Credit Card
+C231,43,Male,66950,31,8,Grocery,2378,Credit Card
+C232,28,Other,79563,6,14,Apparel,3934,Wallet
+C233,37,Male,65844,71,11,Home Decor,4417,Wallet
+C234,28,Other,84828,13,11,Beauty,3786,Credit Card
+C235,37,Male,74600,69,19,Apparel,1537,Cash
+C236,38,Other,94663,65,14,Home Decor,6330,UPI
+C237,47,Female,78743,89,9,Beauty,5071,Credit Card
+C238,48,Other,42395,24,6,Apparel,3353,UPI
+C239,27,Male,65975,73,16,Grocery,8197,UPI
+C240,48,Male,67144,51,4,Electronics,1975,UPI
+C241,40,Female,95824,71,6,Beauty,8625,Wallet
+C242,35,Female,89419,19,13,Home Decor,3812,Credit Card
+C243,41,Male,56051,31,7,Grocery,4191,Credit Card
+C244,52,Other,61518,38,12,Beauty,3124,UPI
+C245,18,Male,49711,76,12,Grocery,2830,Credit Card
+C246,20,Male,93440,64,7,Home Decor,9006,Credit Card
+C247,59,Female,41151,93,11,Home Decor,3837,UPI
+C248,46,Female,69085,48,11,Grocery,5204,Credit Card
+C249,49,Male,40729,25,16,Electronics,1891,Credit Card
+C250,20,Male,88836,76,2,Home Decor,4516,UPI
+C251,27,Other,74382,1,16,Home Decor,9881,UPI
+C252,25,Other,66822,20,7,Beauty,3169,Cash
+C253,54,Male,36109,33,12,Apparel,7814,UPI
+C254,30,Female,89490,69,15,Beauty,2445,UPI
+C255,41,Other,77938,23,9,Beauty,9339,Cash
+C256,21,Other,40542,52,17,Beauty,6546,UPI
+C257,46,Male,83449,67,10,Apparel,5968,UPI
+C258,45,Other,78714,61,18,Electronics,4765,Wallet
+C259,47,Male,89955,11,3,Apparel,8012,UPI
+C260,24,Male,53911,10,13,Apparel,8869,Credit Card
+C261,25,Other,49763,23,10,Electronics,8400,Credit Card
+C262,23,Male,71913,71,15,Apparel,4215,Credit Card
+C263,18,Male,87763,92,8,Grocery,7114,Cash
+C264,21,Female,61928,56,19,Beauty,9471,Cash
+C265,20,Female,88239,97,8,Electronics,1702,UPI
+C266,19,Female,96405,19,18,Apparel,9616,Cash
+C267,42,Male,70260,28,8,Home Decor,5595,Wallet
+C268,55,Other,87704,86,3,Apparel,2346,Wallet
+C269,26,Female,81211,11,15,Beauty,1142,Cash
+C270,54,Male,81025,90,2,Grocery,4332,Cash
+C271,32,Female,82050,69,14,Grocery,6241,Wallet
+C272,44,Male,93236,39,16,Home Decor,4888,UPI
+C273,22,Other,76437,53,19,Grocery,2940,UPI
+C274,51,Other,89124,52,14,Beauty,8594,UPI
+C275,32,Female,75225,77,3,Electronics,7228,Wallet
+C276,55,Male,39411,36,9,Home Decor,6494,Credit Card
+C277,55,Other,81797,83,4,Electronics,3399,Credit Card
+C278,55,Male,53843,46,18,Beauty,2582,Wallet
+C279,28,Male,92099,5,16,Electronics,7052,Wallet
+C280,37,Female,97043,83,2,Electronics,7689,Wallet
+C281,59,Other,62650,92,1,Home Decor,6688,UPI
+C282,36,Other,53748,22,11,Apparel,8180,Credit Card
+C283,37,Male,90745,21,3,Home Decor,6529,Cash
+C284,33,Male,44671,47,16,Electronics,2242,Cash
+C285,24,Female,43087,14,8,Home Decor,1931,Cash
+C286,27,Male,78981,91,12,Electronics,3571,UPI
+C287,41,Other,33024,81,16,Grocery,2423,Wallet
+C288,29,Other,40048,87,8,Beauty,2919,Wallet
+C289,30,Male,96068,23,9,Electronics,8861,Cash
+C290,21,Female,36904,12,1,Beauty,5747,Cash
+C291,51,Female,89388,54,12,Electronics,5371,UPI
+C292,59,Male,39421,58,5,Electronics,5391,Wallet
+C293,33,Other,30240,8,6,Apparel,3447,Wallet
+C294,55,Male,68460,97,4,Apparel,8770,UPI
+C295,37,Male,42900,79,2,Electronics,4883,Credit Card
+C296,53,Male,93451,53,11,Home Decor,1534,Wallet
+C297,55,Female,81881,48,5,Home Decor,1387,UPI
+C298,24,Other,71606,70,6,Apparel,7299,UPI
+C299,34,Female,48770,50,6,Apparel,6139,UPI
+C300,30,Male,81080,38,5,Apparel,1756,Cash
+C301,56,Other,88715,49,13,Grocery,4795,UPI
+C302,43,Other,90413,20,6,Electronics,9252,Credit Card
+C303,53,Other,46194,9,5,Home Decor,2614,UPI
+C304,43,Female,44571,24,7,Apparel,9298,Wallet
+C305,49,Female,67811,67,4,Electronics,3712,Credit Card
+C306,40,Female,87857,78,5,Beauty,8512,Wallet
+C307,46,Female,35854,63,11,Apparel,2681,UPI
+C308,55,Female,96050,42,9,Apparel,6892,UPI
+C309,36,Male,61990,30,8,Apparel,1671,UPI
+C310,25,Other,33563,41,2,Beauty,4121,Credit Card
+C311,29,Female,45769,85,13,Home Decor,5858,Cash
+C312,31,Male,58207,49,2,Home Decor,3509,Credit Card
+C313,33,Male,63125,12,6,Beauty,1485,Cash
+C314,37,Male,80035,98,8,Home Decor,9445,Wallet
+C315,54,Male,56977,63,11,Beauty,9509,Wallet
+C316,23,Male,82373,67,13,Apparel,9330,Cash
+C317,45,Other,32229,54,13,Apparel,4438,Cash
+C318,21,Male,38945,43,4,Home Decor,3973,UPI
+C319,43,Other,65204,46,7,Apparel,9678,Cash
+C320,22,Male,42999,15,6,Home Decor,4712,Cash
+C321,53,Other,60834,38,4,Electronics,6301,Cash
+C322,24,Female,66294,38,4,Beauty,9422,Cash
+C323,46,Other,54501,33,19,Apparel,6927,UPI
+C324,33,Other,74046,71,15,Grocery,8514,UPI
+C325,20,Female,96790,77,13,Home Decor,1584,Wallet
+C326,22,Other,70711,91,6,Home Decor,3024,Cash
+C327,59,Male,58304,30,14,Grocery,9881,Cash
+C328,19,Male,94264,93,10,Grocery,6694,Cash
+C329,52,Female,55037,86,6,Electronics,4230,Wallet
+C330,32,Female,56905,35,1,Apparel,6157,Wallet
+C331,25,Female,91530,16,13,Apparel,8169,UPI
+C332,37,Female,34084,47,8,Beauty,7897,Credit Card
+C333,41,Female,45220,35,19,Home Decor,2255,Wallet
+C334,54,Female,38853,88,7,Beauty,1219,UPI
+C335,52,Male,30573,32,18,Grocery,5898,Wallet
+C336,35,Female,33048,74,3,Grocery,6687,UPI
+C337,25,Female,55951,19,3,Home Decor,3069,UPI
+C338,58,Female,57265,22,13,Electronics,7750,Wallet
+C339,45,Female,31956,59,17,Beauty,2383,Wallet
+C340,45,Male,75148,33,1,Apparel,4040,Cash
+C341,40,Male,58644,32,9,Electronics,8147,UPI
+C342,30,Male,89723,17,18,Beauty,1635,Wallet
+C343,44,Male,33536,67,7,Home Decor,4637,UPI
+C344,29,Other,49379,25,15,Beauty,2801,Wallet
+C345,20,Other,55032,51,18,Apparel,4676,UPI
+C346,35,Male,94260,18,6,Grocery,3945,Cash
+C347,28,Other,92843,58,1,Apparel,6858,Cash
+C348,59,Male,54131,41,3,Electronics,4660,UPI
+C349,36,Other,55372,86,9,Apparel,4335,Credit Card
+C350,30,Female,58399,89,13,Grocery,3530,UPI
+C351,31,Male,66503,89,1,Electronics,2632,Credit Card
+C352,36,Other,34852,15,9,Apparel,8468,Wallet
+C353,31,Other,58252,46,16,Grocery,1688,Wallet
+C354,30,Other,79285,72,19,Grocery,5712,Wallet
+C355,25,Male,42478,86,3,Apparel,1691,Wallet
+C356,55,Female,93464,14,15,Apparel,1920,Wallet
+C357,43,Male,46098,75,19,Beauty,7200,Cash
+C358,24,Other,32911,97,6,Grocery,9603,Cash
+C359,25,Male,35087,55,8,Home Decor,8810,Cash
+C360,18,Other,53316,81,11,Electronics,9139,Wallet
+C361,45,Other,44707,22,13,Grocery,6114,Credit Card
+C362,52,Female,41112,79,6,Grocery,6237,Cash
+C363,37,Female,65172,4,12,Electronics,2032,Cash
+C364,51,Male,40071,13,18,Home Decor,5738,Credit Card
+C365,48,Female,34852,37,19,Beauty,5127,UPI
+C366,45,Male,30350,47,2,Apparel,8631,UPI
+C367,50,Female,93738,22,9,Beauty,7828,Cash
+C368,52,Other,38085,76,9,Apparel,7076,Credit Card
+C369,34,Other,79799,48,19,Apparel,1602,Wallet
+C370,32,Female,33643,7,6,Apparel,9133,Cash
+C371,38,Female,33412,31,3,Beauty,5609,Cash
+C372,19,Female,92628,71,12,Home Decor,2376,Cash
+C373,34,Male,70750,55,16,Electronics,5723,Credit Card
+C374,19,Other,88020,31,7,Home Decor,4866,Credit Card
+C375,44,Male,97767,87,1,Electronics,4500,UPI
+C376,43,Male,68908,16,3,Grocery,4693,Credit Card
+C377,18,Male,41678,76,15,Beauty,5885,Credit Card
+C378,53,Male,51966,78,16,Apparel,7474,Wallet
+C379,33,Other,72946,38,18,Apparel,5876,Cash
+C380,53,Female,94714,12,2,Apparel,9774,UPI
+C381,29,Male,34627,48,12,Beauty,5707,Credit Card
+C382,51,Male,61609,49,14,Electronics,8421,UPI
+C383,44,Female,56712,69,4,Beauty,5850,Cash
+C384,19,Other,63725,8,7,Home Decor,3386,Wallet
+C385,37,Male,90049,98,16,Apparel,7104,Wallet
+C386,42,Female,53735,40,11,Electronics,7425,UPI
+C387,42,Other,82707,83,17,Grocery,5656,Cash
+C388,31,Female,59025,8,5,Apparel,8879,Credit Card
+C389,57,Male,85275,30,3,Electronics,3744,UPI
+C390,55,Male,83838,51,1,Apparel,1166,UPI
+C391,55,Male,48153,73,11,Electronics,5113,Credit Card
+C392,52,Male,34130,70,12,Home Decor,4250,Wallet
+C393,53,Male,61972,59,10,Beauty,2571,Credit Card
+C394,42,Other,75558,24,17,Grocery,4316,UPI
+C395,41,Male,86759,56,3,Home Decor,3150,Cash
+C396,23,Female,65055,50,15,Grocery,3635,Cash
+C397,40,Other,91652,32,5,Beauty,7258,UPI
+C398,55,Other,48339,8,8,Apparel,7546,Cash
+C399,19,Male,55129,55,8,Grocery,1701,Wallet
+C400,21,Male,87248,59,10,Grocery,2186,Credit Card
+C401,36,Other,82074,1,8,Home Decor,9217,Credit Card
+C402,25,Female,34542,37,11,Grocery,8320,Cash
+C403,26,Other,97820,5,1,Grocery,2492,Credit Card
+C404,48,Male,43048,94,19,Beauty,4790,UPI
+C405,55,Other,67947,73,18,Beauty,2793,UPI
+C406,19,Other,34531,25,1,Apparel,5820,UPI
+C407,38,Male,43034,34,14,Electronics,7352,Wallet
+C408,26,Male,49875,96,6,Home Decor,3884,Wallet
+C409,32,Other,80964,65,13,Beauty,7401,Cash
+C410,22,Female,63579,85,11,Home Decor,8397,Credit Card
+C411,55,Female,39486,49,10,Apparel,7134,Cash
+C412,42,Female,44386,18,16,Grocery,1669,Cash
+C413,35,Other,59041,61,11,Electronics,8426,Wallet
+C414,27,Other,75123,61,13,Home Decor,6139,Wallet
+C415,42,Male,52056,37,5,Apparel,3691,Credit Card
+C416,36,Male,99028,38,5,Home Decor,3019,Cash
+C417,53,Male,35252,16,10,Electronics,3074,Cash
+C418,57,Other,93321,16,16,Grocery,4252,UPI
+C419,54,Other,37018,20,2,Grocery,6815,UPI
+C420,59,Female,93236,69,3,Apparel,3650,Cash
+C421,55,Female,80157,77,18,Grocery,8928,Cash
+C422,21,Male,67399,92,12,Beauty,6212,UPI
+C423,23,Male,35422,60,18,Home Decor,4255,Credit Card
+C424,45,Other,74177,97,18,Electronics,5219,UPI
+C425,49,Female,85626,79,18,Electronics,3753,Cash
+C426,31,Male,30646,60,4,Home Decor,8279,Credit Card
+C427,52,Female,48115,30,2,Beauty,2826,UPI
+C428,39,Other,79694,40,8,Beauty,3998,Credit Card
+C429,20,Other,67044,77,16,Grocery,9525,Cash
+C430,54,Female,73019,57,1,Apparel,4765,UPI
+C431,27,Other,86391,38,9,Home Decor,1401,Wallet
+C432,46,Female,72493,36,8,Beauty,2337,Credit Card
+C433,22,Male,82708,35,10,Home Decor,4645,Wallet
+C434,58,Female,94938,24,9,Electronics,9076,Cash
+C435,21,Male,78891,57,12,Grocery,5598,Wallet
+C436,27,Male,92164,67,19,Home Decor,9171,Credit Card
+C437,32,Male,45387,74,6,Beauty,2222,Cash
+C438,40,Male,66000,21,17,Beauty,7754,Cash
+C439,40,Other,57303,69,17,Home Decor,8020,Cash
+C440,45,Other,35757,25,9,Apparel,4212,Credit Card
+C441,23,Other,30031,4,1,Apparel,7898,Credit Card
+C442,31,Other,98105,69,8,Beauty,3280,UPI
+C443,40,Male,85981,52,4,Home Decor,3773,UPI
+C444,31,Male,58896,27,13,Apparel,7468,UPI
+C445,31,Other,37388,85,4,Grocery,4793,Credit Card
+C446,53,Female,90485,63,1,Apparel,8716,Credit Card
+C447,21,Male,59808,61,16,Home Decor,1198,Credit Card
+C448,25,Female,62043,20,17,Home Decor,7985,Cash
+C449,28,Other,35144,55,6,Electronics,3578,Credit Card
+C450,53,Female,60822,93,7,Home Decor,9297,Credit Card
+C451,49,Other,53571,56,6,Grocery,5586,Wallet
+C452,53,Male,43114,77,7,Electronics,9488,Wallet
+C453,51,Female,61151,57,7,Beauty,5426,Credit Card
+C454,57,Male,70219,99,19,Home Decor,7922,UPI
+C455,47,Other,37699,8,7,Beauty,1519,UPI
+C456,48,Other,37452,23,8,Apparel,2017,UPI
+C457,23,Other,50914,42,4,Beauty,8764,Credit Card
+C458,31,Female,30658,98,6,Electronics,6973,Cash
+C459,35,Female,76390,70,9,Home Decor,3959,Cash
+C460,24,Female,44137,53,11,Apparel,6533,Cash
+C461,30,Female,68626,31,7,Beauty,3423,Wallet
+C462,29,Other,68084,26,18,Beauty,9501,Wallet
+C463,27,Female,54907,79,12,Home Decor,4781,Cash
+C464,18,Male,90687,79,16,Beauty,7238,Credit Card
+C465,54,Male,87918,70,7,Electronics,4846,Cash
+C466,34,Other,96126,60,5,Home Decor,9857,Credit Card
+C467,31,Female,58990,83,8,Apparel,4462,Credit Card
+C468,42,Other,98154,99,2,Home Decor,9030,Wallet
+C469,28,Other,85208,91,3,Grocery,8619,Cash
+C470,30,Other,81126,6,12,Beauty,4516,Wallet
+C471,33,Other,75928,13,1,Apparel,3690,Wallet
+C472,53,Other,79900,98,6,Grocery,1856,Wallet
+C473,53,Male,72032,21,15,Grocery,7414,UPI
+C474,41,Other,75584,16,14,Home Decor,5626,UPI
+C475,53,Other,50990,36,15,Home Decor,8038,Credit Card
+C476,30,Female,74970,97,14,Home Decor,7689,Credit Card
+C477,54,Other,71760,86,19,Apparel,7378,Cash
+C478,29,Other,76072,78,9,Apparel,2697,UPI
+C479,35,Male,99607,7,7,Beauty,6721,UPI
+C480,25,Male,51029,5,9,Beauty,4229,Credit Card
+C481,39,Other,39374,68,10,Home Decor,3678,Cash
+C482,30,Male,64649,47,15,Beauty,7340,Wallet
+C483,37,Male,36309,12,14,Electronics,9156,Credit Card
+C484,42,Female,66813,43,15,Beauty,8954,Cash
+C485,42,Female,86129,88,7,Home Decor,3401,UPI
+C486,26,Male,83200,31,6,Electronics,2656,UPI
+C487,18,Other,58299,26,13,Beauty,2925,Credit Card
+C488,30,Male,45538,93,16,Beauty,4490,Wallet
+C489,28,Female,47884,9,5,Apparel,8268,Credit Card
+C490,26,Male,69461,37,16,Beauty,5643,UPI
+C491,56,Other,32437,94,18,Beauty,7937,Cash
+C492,20,Male,52825,8,7,Home Decor,3153,Credit Card
+C493,46,Female,84472,21,7,Electronics,4295,Credit Card
+C494,47,Male,93015,85,6,Apparel,3088,Cash
+C495,38,Female,47418,78,15,Beauty,8038,Wallet
+C496,42,Female,46326,7,8,Home Decor,3190,Cash
+C497,56,Female,89818,5,5,Home Decor,1283,Credit Card
+C498,45,Male,70302,79,6,Apparel,4716,Wallet
+C499,42,Female,50051,64,13,Beauty,2325,Credit Card
+C500,21,Male,33881,4,7,Electronics,7431,Wallet
